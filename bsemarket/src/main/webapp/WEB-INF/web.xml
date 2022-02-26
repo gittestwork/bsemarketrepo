@@ -5,7 +5,7 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
  <servlet>
-  <servlet-name>myServlet</servlet>
-  <serlvet-class>com.abc.MyServlet</servlet-class>
+  <servlet-name>myServlet</servlet-name>
+  <servlet-class>com.abc.MyServlet</servlet-class>
  </servlet>
 </web-app>
